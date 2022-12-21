@@ -1,6 +1,6 @@
 Turtle Screensavers 1.1
 
-（N:Please extract the file in your Python directory and run the screensaver)
+（N:Please extract the Lib.7z in your Python directory and run the screensaver)
 
 （N:This file follows the GLP2 protocol Commercial Prohibited Commercial! (Is anyone really commercial?) ）
 
